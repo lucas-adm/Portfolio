@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200px" height="100px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_477db83f729d63210139ec7cd29c1351/render-render.png">
+<img src="https://i.imgur.com/NJty59i.png">
 
 ###### Deployed in Render Cloud
 
